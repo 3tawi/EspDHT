@@ -1,0 +1,26 @@
+{
+	"name": "DHT Sensor",
+	"keywords": "DHT11, DHT22, humidity, sensor, temperature",
+	"description": "Arduino ESP library for DHT11, DHT22, etc Temp & Humidity Sensors. Last changes: Fix negative temperature problem (credits @helijunky)",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/3tawi/EspDHT.git"
+  },
+  "authors":
+  [
+    {
+      "name": "3tawi",
+      "youtube": "https://www.youtube.com/c/GreatProjects",
+      "url": "https://github.com/3tawi",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": [
+		"espressif8266",
+		"espressif32",
+		"atmelsam",
+		"atmelavr"
+	]
+}
