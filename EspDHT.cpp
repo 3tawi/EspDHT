@@ -9,7 +9,7 @@
   http://www.github.com/3tawi/EspDHT
 
   Written by Mark Ruys, mark@paracas.nl.
-  Updated to work with ESP32 by 3tawi
+  Updated by 3tawi
 
   GNU General Public License, check LICENSE for more information.
   All text above must be included in any redistribution.
