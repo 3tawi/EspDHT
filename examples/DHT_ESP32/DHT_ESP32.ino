@@ -1,3 +1,7 @@
+
+// DHT Sensor Library: https://github.com/3tawi/EspDHT
+// Find All "Great Projects" Videos : https://www.youtube.com/c/GreatProjects
+
 #include "EspDHT.h"
 
 EspDHT dht;
